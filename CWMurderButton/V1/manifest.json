@@ -1,0 +1,12 @@
+﻿{
+  "namespace": "ElectricSteve",
+  "name": "Murder_Button",
+  "description": "Adds a button to murder other players.",
+  "version_number": "1.0.0",
+  "dependencies": [
+    "Hamunii-AutoHookGenPatcher-1.0.4",
+    "BepInEx-BepInExPack-5.4.2100",
+    "ElectricSteve-Surface_Die_Fix-1.0.0"
+  ],
+  "website_url": "https://github.com/electricsteve/cwmurderbutton"
+}
